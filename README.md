@@ -1,14 +1,13 @@
+## Profil
+
 - 👋 Hi, I’m @Aleksyc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🎓 BUT informatique - IUT du Littoral Côte d'Opale à Calais
 
-## Langages
+## Compétences
 
-- **Langages de programmation :** Python, Java
+- **Langages :** Python, SQL, Java, C
+- **Frameworks et bibliothèques :** PyQt
+- **Bases de données :** PostgreSQL
 
 <!---
 Aleksyc/Aleksyc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
