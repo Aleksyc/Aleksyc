@@ -5,7 +5,7 @@
 
 ## Compétences
 
-- **Langages :** Python, SQL, Java
+- **Langages :** Python, C++, Java, PHP, SQL
 - **Frameworks et bibliothèques :** PyQt
 - **Bases de données :** PostgreSQL
 
